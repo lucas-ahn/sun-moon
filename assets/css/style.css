@@ -1,0 +1,74 @@
+#body {
+    font-size: 20px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+#main {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    border-radius: 210px;
+    padding: 15px;
+}
+
+#sun-moon {
+    max-width: 500px;
+    margin: 1%;
+}
+
+#time-display {
+    color: rgb(255, 244, 228);
+    font-size: 275%;
+    margin: 1%;
+    padding-bottom: 1%;
+}
+
+#descriptor {
+    color: rgb(255, 244, 228);
+    font-size: 140%;
+    margin: 1%;
+    padding: 1%;
+    padding-bottom: 3%;
+}
+
+.static-body {
+    background-color: rgb(255, 244, 228);
+}
+
+.morning-body {
+    background-color: #ABF1F5;
+}
+
+.afternoon-body {
+    background-color: rgb(236, 133, 37);
+}
+
+.evening-body {
+    background-color: rgb(37, 31, 46);
+}
+
+.night-body {
+    background-color: #16262D;
+}
+
+.static-main {
+    background-color: rgb(221, 212, 199);
+}
+
+.morning-main {
+    background-color: rgb(101, 141, 143);
+}
+
+.afternoon-main {
+    background-color: rgb(165, 93, 25);
+}
+
+.evening-main {
+    background-color: rgb(73, 65, 85);
+}
+
+.night-main {
+    background-color: rgb(36, 62, 73);
+}
